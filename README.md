@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RRRish
-- 👀 I’m interested in Developing
+- 👀 I’m interested in Developing new things
 - 🌱 I’m currently learning Python and C 
 - 📫 How to reach me? Through my instagram i.e hrishhit
 
