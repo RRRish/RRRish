@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RRRish
 - 👀 I’m interested in Developing new things
-- 🌱 I’m currently learning c++ 
+- 🌱 I’m currently learning java 
 - 📫 How to reach me? Through my instagram i.e hrishhit
 
 <!---
