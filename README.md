@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RRRish
 - 👀 I’m interested in Developing new things
-- 🌱 I’m currently learning Javascript and DSA 
+- 🌱 I’m currently learning React and DSA 
 - 📫 How to reach me? Through my instagram i.e rrrishhit
 
 <!---
